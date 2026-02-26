@@ -3,7 +3,6 @@ name: Analyze, Build and Deploy
 on: [push]
 
 jobs:
-
   build:
     name: Build
     runs-on: ubuntu-latest
